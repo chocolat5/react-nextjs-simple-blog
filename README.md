@@ -12,7 +12,7 @@ I made this for learning React.
 1. Clone this repo
 
 ```
-git clone git@github.com:chocolat5/react-simple-blog.git <PROJECT_NAME>
+git clone git@github.com:chocolat5/react-nextjs-simple-blog.git <PROJECT_NAME>
 ```
 
 2. Move to the appropriate directory
