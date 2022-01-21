@@ -5,7 +5,7 @@ I made this for learning React.
 
 ## Demo
 
-[View Demo](https://chocolat5.github.io/react-simple-blog/)
+[View Demo](https://react-nextjs-simple-blog.vercel.app/)
 
 ## Getting Started
 
